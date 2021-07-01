@@ -7,8 +7,8 @@ on:
     branches: [ main ]
   watch:
     types: started
-  schedule:
-    - cron: 1 0 * * *
+  #schedule:
+    #- cron: 1 0 * * *
 
 jobs:
   Cloud189Checkin:
